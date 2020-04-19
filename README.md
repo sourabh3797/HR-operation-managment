@@ -1,0 +1,2 @@
+# HR-operation-managment
+        The proposed system is a web application which provides an efficient way to manage the information for various users to cater (provide what is needed) to their needs. It is a complete Portal for Job seekers and employers. It is an exclusive career portal aimed just for the service of job seekers. It is a common platform where corporate recruiters and job seekers come under a single roof
